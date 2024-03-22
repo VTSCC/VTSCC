@@ -1,0 +1,1381 @@
+packages,domain,layer
+6tronl/artus,CV,2
+aadhithya/transformers-collection,Model,2
+Aarhus-Psychiatry-Research/psycop-ml-utils,Biology and Medicine,2
+Aayushchou/semantic-matcher,Data Processing,3
+abelriboulot/onnxt5,NLP,2
+actris-cloudnet/cloudnetpy,Geography and Meteorology,4
+actris-cloudnet/voodoonet,Geography and Meteorology,3
+ad12/meddlr,Deployment and Configuration,2
+adaamko/POTATO,NLP,2
+adapter-hub/adapter-transformers,NLP,1
+aditeyabaral/calbert,NLP,2
+adobe/NLP-Cube,NLP,2
+adriangb/scikeras,Model,1
+afeinstein20/eleanor,Astronomy,1
+agamm/semantic-split,NLP,3
+agemagician/Ankh,Optimization,2
+agi-brain/xuanpolicy,MLOps Platform,1
+ahs2202/cressp,Biology and Medicine,1
+AI4SCR/scQUEST,Biology and Medicine,2
+ai-forever/ru-dalle,Data Processing,2
+aiida-phonopy/aiida-phonopy,Physics,4
+aiidateam/aiida-core,Others,3
+aiidateam/aiida-cp2k,Physics/Materialogy,4
+aiidateam/aiida-diff,Others,4
+aiidateam/aiida-nwchem,Physics/Materialogy,4
+aiidateam/aiida-optimade,Physics/Materialogy,3
+aiidateam/aiida-wannier90,Materialogy,4
+aiidateam/aiida-wannier90-workflows,Others,4
+aimat-lab/gcnn_keras,Model,1
+aimat-lab/NNsForMD,Physics,1
+aimclub/FEDOT,Training,1
+airaria/TextPruner,Training,2
+airKlizz/benchmark-for-transformers,Evaluation,2
+airtai/mono-dense-keras,Model,1
+airtai/monotonic-nn,Model,1
+aisingapore/sgnlp,NLP,2
+a-jd/npsn,Optimization,1
+ajndkr/boilerplate-x,LLM,3
+ajndkr/lanarky,Deployment and Configuration,3
+ajndkr/pytest-langchain,LLM,3
+akashsonowal/interpolating-neural-networks,Training,1
+a-kore/RPQ-pytorch,Optimization,2
+albarji/mixture-of-diffusers,CV,2
+albermax/innvestigate,Monitoring and Interpreting,1
+albertswiecicki/mlwrapper,Monitoring and Interpreting,1
+alessiospuriomancini/cosmopower,Physics,1
+alexandrainst/danlp,NLP,2
+alexdaniel654/Renal_Segmentor,Biology and Medicine,1
+alex-parisi/tfhub-styletransfer-wrapper,Data Processing,1
+alfworld/alfworld,NLP,2
+alibaba/EasyCV,CV,2
+AlignmentResearch/tuned-lens,Monitoring and Interpreting,2
+alistairewj/bert-deid,Biology and Medicine,2
+allenai/allennlp,NLP,2
+allenai/allennlp-models,NLP,2
+allenai/allennlp-semparse,NLP,3
+allenai/allennlp-server,Deployment and Configuration,3
+allenai/catwalk,Evaluation,1
+allenai/mmda,Others,2
+allenai/vila,Data Processing,2
+alon-albalak/TLiDB,Others,2
+altcp/gdemandfcast,MLOps Platform,1
+alteryx/nlp_primitives,NLP,1
+altescy/nlpstack,NLP,2
+amaarquadri/perfect-information-game,Others,1
+amaiya/ktrain,NLP,1
+amanas/dnarecords,Biology and Medicine,1
+amansrivastava17/embedding-as-service,NLP,1
+amir-zeldes/HebPipe,NLP,2
+amir-zeldes/xrenner,NLP,3
+amzn/differential-privacy-bayesian-optimization,Security,1
+amzn/pecos,IR,2
+analyticalmindsltd/smote_variants,Data Processing,1
+andreArtelt/ceml,Monitoring and Interpreting,1
+andreped/GradientAccumulator,Training,1
+andrewtavis/kwx,NLP,1
+andrewtavis/wikirec,NLP,1
+andstor/lm-detect,Monitoring and Interpreting,2
+andylolu2/speedtoxify,Security,2
+Anieca/Xtracture,IR,3
+aniketmaurya/llm-inference,NLP,2
+Anjanaval/IRIS-Emotion,Data Processing,1
+anotherbyte-net/leaf-focus,NLP,1
+anovos/anovos,Data Processing,1
+a-n-rose/Python-Sound-Tool,Audio,1
+apache/tvm,Training,1
+apcamargo/genomad,Biology and Medicine,1
+apcamargo/RNAsamba,Biology and Medicine,1
+apmoore1/Bella,NLP,1
+appeler/ethnicolr,NLP,1
+apple/ml-ane-transformers,Deployment and Configuration,2
+apple/turicreate,Training,1
+archinetai/archisound,Model,2
+argilla-io/biome-text,NLP,2
+Argmaster/NNEVE,Physics,1
+ari-dasci/S-TSFE-DL,Data Processing,1
+aristoteleo/spateo-release,Biology and Medicine,1
+arnor-sigurdsson/EIR,Training,2
+Artem259/bookocr,CV,1
+ArthurFDLR/pose-classification-kit,CV,1
+arunpandian7/skywatch-ai,CV,1
+asahi417/lm-question-generation,NLP,2
+asahi417/relbert,NLP,2
+asahi417/tner,Deployment and Configuration,2
+aschampion/diluvian,Optimization,1
+asfadmin/AI-Event-Monitoring,CV,1
+ashishpatel26/datascienv,Others,2
+asreview/asreview,Evaluation,1
+asreview/asreview-covid19,IR,2
+asreview/asreview-datatools,Data Processing,2
+asreview/asreview-hyperopt,Optimization,2
+asreview/asreview-makita,Others,2
+asreview/asreview-wordcloud,NLP,2
+asteroid-team/asteroid,Audio,3
+AstraZeneca/KAZU,NLP,2
+astrazeneca-cgr-publications/mantis-ml-release,Biology and Medicine,1
+asyml/forte,Data Processing,1
+asyml/ForteHealth,Biology and Medicine,2
+asyml/forte-wrappers,NLP,2
+at16k/at16k,Audio,1
+atomistic-machine-learning/schnetpack,Materialogy,3
+auhide/bgnlp,NLP,2
+Australian-Text-Analytics-Platform/atap_widgets,Others,3
+autoai-org/CVTron,Training,1
+autogoal/autogoal,Optimization/Training,2
+automatethem/transformers-supporter,Model,2
+autonomio/astetik,Data Processing,2
+autonomio/jako,Training,2
+autonomio/talos,Optimization,1
+autonomio/wrangle,Data Processing,1
+autoscriber-app/autoscriber-lib,NLP,2
+Aveek-Saha/VIRALIQ,IR,1
+awslabs/Renate,Training,2
+awslabs/syne-tune,Optimization,2
+a-ws-m/unlockNN,Chemistry,1
+aychang95/fastnn,Deployment and Configuration,2
+az7jh2/SDePER,Biology and Medicine,1
+azizmousa/sign_language_translator,Audio/NLP,1
+baal-org/baal,Training,2
+bahablgn/kis,CV,1
+barisozmen/deepaugment,Optimization,1
+bark-simulator/bark-ml,RL,1
+barseghyanartur/faker-file,Data Processing,2
+Basvanstein/doe2vec,Training,1
+batzner/tensorlm,NLP,1
+bavard-ai/bavard-ml-utils,MLOps Platform,1
+baxtree/subaligner,Audio/NLP,1
+BBVA/mercury-explainability,Model,2
+BBVA/mercury-monitoring,Monitoring and Interpreting,1
+BBVA/mercury-robust,Evaluation,1
+bedapub/besca,Data Processing,2
+beir-cellar/beir,IR,1
+bencevans/camtrapml,CV,1
+Ben-Epstein/spacy-to-hf,Model,2
+benlansdell/ethome,Audio/CV,1
+bentoml/bentoctl,Deployment and Configuration,2
+bentoml/BentoML,MLOps Platform,1
+beringresearch/ivis,Biology and Medicine,1
+berkedilekoglu/SUMOnet,Biology and Medicine,1
+BerkeleyLearnVerify/VerifAI,Deployment and Configuration,1
+berkeley-reclab/RecLab,Evaluation,1
+bessagroup/f3dasm_optimize,Optimization,1
+beyretb/AnimalAI-Olympics,Others,1
+Bhanuchander210/keras_flower,CV,1
+bhavsarpratik/easy-transformers,NLP,2
+bhky/nodding-pigeon,CV,1
+bhky/opennsfw2,CV,1
+bhoov/spacyface,Data Processing,2
+bigdata-ustc/EduNLP,NLP,2
+bin2ai/pycurtain,Training,2
+biocore/mmvec,Biology and Medicine,1
+biocore/songbird,Biology and Medicine,1
+biocypher/biochatter,Biology and Medicine,2
+bioinf-jku/FCD,Biology and Medicine,1
+bioinformatics-ua/polus,Biology and Medicine,1
+bio-ontology-research-group/DeepSVP,Biology and Medicine,1
+bitextor/bicleaner-ai,NLP,1
+bitswired/lazycodr,Others,3
+bjascob/amrlib,Graph,2
+bjmorgan/py-sc-fermi,Physics/Materialogy,3
+bklynhlth/openwillis,Biology and Medicine,1
+BlackHC/chatplayground,LLM,3
+BlackHC/llm-strategy,Data Processing,3
+blip-solutions/promptwatch-client,LLM,3
+bminixhofer/wtpsplit,NLP,2
+bmvandoren/Nighthawk,Audio,1
+bookyue/nuclear_data_automated_processing,Data Processing,3
+borchero/pycave,Training,3
+boromir674/neural-style-transfer,CV,1
+bossauh/pyvrs,Audio,1
+bowang-lab/scGPT,Biology and Medicine,2
+brainglobe/cellfinder,CV,1
+brainglobe/cellfinder-core,Biology and Medicine,1
+braisCB/E2E-FS,Data Processing,1
+brandontrabucco/design-bench,Optimization,1
+braysia/CellTK,CV,1
+braysia/cellunet,CV,1
+breezedeus/CnOCR,CV/NLP,3
+broadinstitute/ml4h,Biology and Medicine,1
+CederGroupHub/chgnet,Physics,3
+centre-for-humanities-computing/conspiracies,NLP,2
+charlesdedampierre/BunkaTopics,LLM,2
+ChEB-AI/python-chebai,Chemistry,2
+chomechome/maru,NLP,1
+Chris1221/lanceotron,Training,1
+ChristophAlt/pytorch-ie,NLP,2
+ChristopherHaydenTodd/ctodd-python-lib-data-science,Data Processing,1
+ciare-robotics/world-creator,LLM,3
+CLARIN-PL/embeddings,Model,1
+Clearbox-AI/nerpii,Data Processing,2
+Cloudac7/miko-analyzer,Chemistry,3
+codecentric-oss/niceml,MLOps Platform,1
+CoLRev-Environment/colrev,Data Processing,2
+CompNet/Renard,Graph,2
+CompNet/Tibert,Model,2
+CouncilDataProject/speakerbox,Audio,2
+crodriguez1a/bpe-summarizer,NLP,2
+CSLukeW/StockerMake,Economics,1
+dagleaves/languageassistant,LLM,3
+daigo0927/tf-raft,CV,1
+daigo0927/tf-simple-metric-learning,Evaluation,1
+datasig-ac-uk/nlpsig,NLP,2
+davanstrien/flyswot,CV,2
+davidberenstein1957/classy-classification,NLP,2
+davidberenstein1957/crosslingual-coreference,NLP,3
+davidberenstein1957/fast-sentence-transformers,NLP,3
+DavidMChan/grazier,Deployment and Configuration,2
+DeepLabCut/DeepLabCut-live,CV,1
+DeepMReye/DeepMReye,CV,1
+deezer/spleeter,Model,1
+devnums/pyheartlib,Biology and Medicine,1
+DhananjayAshok/KagglePipeline,Deployment and Configuration,1
+DigitalSlideArchive/HistomicsStream,Data Processing,1
+DIME-XAI/dime-xai,Monitoring and Interpreting,1
+DinoraProject/dinora_chess,Others,1
+djvaroli/text_me_keras,Monitoring and Interpreting,1
+doccano/doccano-mini,LLM,2
+EasierMTL/asian_mtl,MLOps Platform,2
+EdisonLeeeee/GraphAdv,Training,1
+edugp/embedding-lenses,Data Processing,2
+EMalagoli92/CvT-TensorFlow,CV,1
+EMalagoli92/VAN-Classification-TensorFlow,CV,1
+EmbedInAI/EmbedInDB,Model,3
+emrecanaltinsoy/keras2trt,Model,1
+eora-ai/torchok,CV,3
+epfl-nlp/kogito,NLP,2
+epfl-theos/aiida-defects,Materialogy,4
+equinor/gordo,Deployment and Configuration,1
+ericzhang-cn/ailingbot,LLM,3
+estnltk/estnltk,NLP,1
+eto-ai/rikai,Data Processing,1
+eubinecto/politely,NLP,2
+EverLookNeverSee/diagtomodel,Training,1
+evilsocket/ergo,Training,1
+evilsocket/pwnagotchi,RL,1
+evolbioinfo/phylodeep,Optimization,1
+explodinggradients/ragas,Evaluation,2
+explosion/spacy-huggingface-pipelines,NLP,2
+explosion/spacy-llm,LLM,2
+explosion/spacy-transformers,Model,2
+eyurtsev/kor,LLM,3
+fabprezja/deep-fast-vision,CV,1
+fabprezja/keras-gpt-copilot,LLM,1
+facebookresearch/FLSim,Training,2
+facebookresearch/hydra,Deployment and Configuration,2
+facebookresearch/Mephisto,Others,3
+facebookresearch/nevergrad,Optimization,1
+farhadnkm/Fringe.Py,Physics,1
+farizrahman4u/loopgpt,LLM,2
+fastmachinelearning/hls4ml,Model,1
+faustomorales/mira,CV,1
+fcakyon/pywhisper,Security,2
+fcakyon/video-transformers,Audio,2
+feiskyer/kube-copilot,LLM,2
+Fei-Wang/opnlp,Optimization,2
+felixbur/nkululeko,Audio,1
+fermisurfaces/IFermi,Physics,3
+fernandocamargoai/bento2seldon,Deployment and Configuration,2
+fhausmann/deepgrp,Biology and Medicine,1
+FHOOEAIST/AistNET,MLOps Platform,1
+fiddler-labs/fiddler-auditor,Evaluation,3
+fidelity/textwiser,NLP,1
+FingerLiu/text2config,NLP,3
+firmai/atspy,Training,1
+firmai/datagene,Data Processing,1
+firmai/deltapy,Data Processing,1
+fish-quant/big-fish,CV,1
+fkodom/clip-text-decoder,CV/NLP,2
+f-lair/lightning-boost,Training,2
+flairNLP/flair,NLP,2
+flatironinstitute/deepblast,Biology and Medicine,2
+flikka/flass,CV,1
+flink-extended/dl-on-flink,Training,1
+flyteorg/flytekit,MLOps Platform,1
+formermagic/formerbox,NLP,2
+formermagic/git-t5,Deployment and Configuration,2
+fractalego/wafl,LLM,2
+frankkramer-lab/aucmedi,Biology and Medicine,1
+frankkramer-lab/MIScnn,Biology and Medicine,1
+frankligy/SNAF,Biology and Medicine,1
+fugue-project/tune,Optimization,1
+funkelab/gunpowder,CV,1
+fuyu-quant/IBLM,LLM,2
+fzalkow/ctc_chroma,Audio,1
+fzi-forschungszentrum-informatik/TSInterpret,Monitoring and Interpreting,1
+g8a9/ferret,Monitoring and Interpreting,2
+gagneurlab/MMSplice_MTSplice,Biology and Medicine,1
+galuhsahid/mariantranslate,NLP,2
+Garden-AI/garden,Training,1
+garethjns/reinforcement-learning-keras,Deployment and Configuration,1
+gaussalgo/adaptor,Optimization,2
+geekjr/quickai,Training,2
+geeks-of-data/knowledge-gpt,LLM,2
+georgian-io/Multimodal-Toolkit,Data Processing,2
+georgian-io/pyoats,Time Series,1
+georgia-tech-db/evadb,LLM,2
+geo-tp/wow-ocr,CV/NLP,1
+geyang/ml_logger,Monitoring and Interpreting,1
+gifford-lab/deepaccess-package,Biology and Medicine,1
+ginger-io/transformer-embeddings,Model,2
+giotto-ai/giotto-deep,Training,2
+goeckslab/Galaxy-ML,Training,1
+goldenrecursion/goldnlp,MLOps Platform,2
+google/tfp-causalimpact,Evaluation,1
+google-research/football,RL,1
+google-research/visu3d,Data Processing,1
+GuillaumeSimo/autoforecast,Training,1
+gventuri/pandas-ai,LLM,3
+hagabbar/vitamin_c,Physics,1
+Haidra-Org/hordelib_old,Deployment and Configuration,2
+hcmlab/hcai-datasets,NLP,1
+helpmefindaname/transformer-smaller-training-vocab,Training,2
+himkt/konoha,NLP,3
+huggingface/diffusers,Audio/CV,2
+huggingface/optimum-neuron,Training,2
+huggingface/transformers,Model,1
+Hugging-Face-Supporter/tftokenizers,Training,1
+huseinzol05/malaya,NLP,1
+huseinzol05/malaya-speech,MLOps Platform,1
+huspacy/huspacy,NLP,2
+hwchase17/langchain,LLM,2
+ilias-ant/tf-notify,Monitoring and Interpreting,1
+ImperialCollegeLondon/strainmap,Data Processing,1
+imsb-uke/discern,Biology and Medicine,1
+ina-foss/inaSpeechSegmenter,Audio,1
+inarikami/keras-rl2,Model,1
+indobenchmark/indobenchmark-toolkit,NLP,2
+innat/DOLG-TensorFlow,CV,1
+inoryy/reaver,RL,1
+inseq-team/inseq,Monitoring and Interpreting,2
+instadeepai/catx,Model,1
+instadeepai/Mava,Training,1
+intel/e2eAIOK,Optimization,2
+intel/intel-extension-for-transformers,Deployment and Configuration,2
+intel-analytics/analytics-zoo,MLOps Platform,1
+intel-analytics/BigDL,Optimization,1
+interpretml/interpret-community,Monitoring and Interpreting,1
+into-ai/deeplearning2020,Others,2
+into-ai/kerasltisubmission,Evaluation,1
+IntrospectData/facial-expression-recognizer,CV,1
+iomega/ms2query,Biology and Medicine,1
+irec-org/irec,Recommender System,1
+isears/tf_clahe,Optimization,1
+issp-center-dev/abICS,Training,3
+iTzAlver/TensorCRO,Optimization,1
+izuna385/jel,NLP,2
+j3soon/tbparse,Others,1
+jajcayn/pygpso,Optimization,1
+jakartaresearch/maleo,Data Processing,3
+jaketae/ensemble-transformers,NLP,2
+jaketae/storyteller,Audio/NLP,2
+jaketae/wordwise,NLP,2
+jakubarendac/fingerflow,CV,1
+jakub-galazka/asmscan-lstm,Biology and Medicine,1
+jalammar/ecco,NLP,2
+james77777778/keras-aug,Data Processing,1
+jamesdolezal/slideflow,Biology and Medicine,1
+jamesmf/cclm,Training,1
+janosh/pymatviz,Materialogy,3
+janssenhenning/aiida-dataframe,Data Processing,4
+jasmcaus/canaro,Training,1
+JaxGaussianProcesses/GPJax,Data Processing,1
+jbencook/ascii-letter-classifier,CV,1
+jcborges/DeepStack,Others,1
+jcmgray/cotengra,Optimization,2
+jcreinhold/tiramisu-brulee,CV,3
+jcvasquezc/DisVoice,Audio,2
+jcvasquezc/phonet,Audio,1
+jeanollion/dataset_iterator,CV,1
+jennis0/burdoc,CV,2
+jeongyoonlee/Kaggler,Data Processing,1
+jerryjliu/llama_index,LLM,2
+jessevig/bertviz,NLP,2
+jhu99/scbean,Biology and Medicine,1
+jhu99/vipcca,Biology and Medicine,1
+jhuapl-fomo/ralf,LLM,4
+jianfch/stable-ts,Audio,2
+jim-meyer/lottery_ticket_pruner,Training,1
+jina-ai/annlite,Others,2
+jina-ai/clip-as-service,CV,1
+jina-ai/discoart,CV/NLP,1
+jina-ai/finetuner,Optimization,1
+jina-ai/jcloud,Deployment and Configuration,2
+jina-ai/jina,Training,1
+jina-ai/langchain-serve,Deployment and Configuration,2
+jmscslgroup/strym,Data Processing/Monitoring and Interpreting,1
+joeynmt/joeynmt,Others,1
+johnypark/mytflib,Training,1
+jonatasgrosman/asrecognition,Audio,2
+jonatasgrosman/huggingsound,Audio,2
+jondurbin/airoboros,LLM,3
+jordanvolz/lolpop,MLOps Platform,2
+joseprsm/rexify,Training,1
+joshpoll/CITOplasm,LLM,2
+jquesnelle/transformers-openai-api,Deployment and Configuration,2
+jrzaurin/pytorch-widedeep,CV/NLP/Tabular Data,2
+jspaezp/elfragmentador,Biology and Medicine,2
+JuDFTteam/aiida-fleur,Physics/Materialogy,3
+JuDFTteam/aiida-kkr,Physics/Materialogy,3
+JuDFTteam/pymatgen-io-fleur,Physics/Materialogy,3
+JulesBelveze/bert-squeeze,Model,2
+JulesBelveze/nhelper,NLP,2
+kadirnar/ChatGptHub,LLM,3
+kaist-silab/rl4co,Model,2
+kajyuuen/daaja,NLP,2
+khirotaka/enchanter,Training,1
+KieranLitschel/XSWEM,Model,1
+kilroybot/kilroy-face-debug,RL,3
+kilroybot/kilroy-face-discord,RL,3
+kilroybot/kilroy-face-reddit,RL,3
+kilroybot/kilroy-face-twitter,RL,3
+kilroybot/kilroy-module-huggingface,RL,2
+Knuckles-Team/audio-transcriber,Audio,2
+Knuckles-Team/geniusbot,Audio,2
+Knuckles-Team/genius-chatbot,Model,2
+koledjoz/ecg_quality,Biology and Medicine,1
+kostaleonard/mlops,MLOps Platform,1
+krasserm/perceiver-io,Deployment and Configuration,2
+k-tahiro/bert-summarizer,NLP,2
+Kukuksumusu/expybox,Monitoring and Interpreting,2
+KUL-recon-lab/pyliverlesionseg,Biology and Medicine,1
+ku-nlp/kwja,NLP,2
+Kurokabe/SceneDataset,Data Processing,3
+kyegomez/Galvatron,NLP,2
+kyegomez/The-Distiller,NLP,3
+labstructbioinf/DeepCoil,Biology and Medicine,1
+lambda-science/MyoQuant,Biology and Medicine,1
+lambrou/SemTerm,LLM,3
+langchain-ai/kork,LLM,3
+Lanping-Tech/PSOWI,Optimization,1
+lbignone/galaxies_datasets,Astronomy,1
+leeyunjai/mtcnn-python,CV,1
+lenskit/lenskit-tf,Recommender System,1
+lenskit/lkpy,Recommender System,1
+leor-c/replay-monitor,Monitoring and Interpreting,1
+lhackel-tub/ConfigILM,Training,2
+Lightning-AI/lightning,MLOps Platform,1
+Lightning-AI/lightning-Bagua,Training,3
+Lightning-AI/lightning-Graphcore,Training,3
+Lightning-AI/lightning-Habana,Deployment and Configuration,3
+Lightning-AI/lightning-Hivemind,Training,3
+Lightning-AI/torchmetrics,Training,2
+Lightning-Universe/lightning-bolts,Data Processing/Model,2
+Lightning-Universe/lightning-flash,Training,2
+Lightning-Universe/lightning-transformers,Deployment and Configuration,2
+Lightning-Universe/lit-GPT,Training,2
+Lightning-Universe/lit-strategy-Bagua,Training,6
+Lightning-Universe/lit-strategy-ColossalAI,Training,3
+Lightning-Universe/lit-strategy-Hivemind,Training,6
+Limboid/templated,Others,3
+lirondos/pylazaro,NLP,2
+litanlitudan/skyagi,LLM,2
+LlmKira/llm-kira,LLM,2
+LlmKira/openai-kira,NLP,2
+lm-sys/FastChat,LLM,2
+LoicGrobol/zeldarose,Training,2
+LongxingTan/Time-series-prediction,Training,1
+LorenzoFederici/pyrlprob,Training,1
+lorenzo-villa-hub/pynter,Physics,3
+lrcfmd/PhaseFieldRanking,Materialogy,1
+lrcfmd/PhaseSelect,Materialogy,1
+LucaCappelletti94/extra_keras_metrics,Evaluation,1
+Lucasfrota/imdex,IR,1
+lucianolorenti/ceruleo,Model,1
+lucidrains/alphafold2,Biology and Medicine,2
+lucidrains/audiolm-pytorch,Audio,2
+lucidrains/classifier-free-guidance-pytorch,NLP,2
+lucidrains/DALLE2-pytorch,CV/NLP,2
+lucidrains/DALLE-pytorch,CV/NLP,2
+lucidrains/electra-pytorch,Training,2
+lucidrains/enformer-pytorch,Biology and Medicine,2
+lucidrains/imagen-pytorch,Model,2
+lucidrains/make-a-video-pytorch,Audio,3
+lucidrains/muse-maskgit-pytorch,Model,2
+lucidrains/musiclm-pytorch,Audio,2
+lucidrains/naturalspeech2-pytorch,Audio,2
+lucidrains/parti-pytorch,Model,2
+lucidrains/phenaki-pytorch,Audio/NLP,2
+lucidrains/robotic-transformer-pytorch,Others,3
+lucidrains/soundstorm-pytorch,Audio,2
+lucidrains/spear-tts-pytorch,Audio/NLP,3
+lucidrains/tf-bind-transformer,Biology and Medicine,2
+lucieschwoertzig/face_hunters,CV,1
+ludwig-ai/ludwig,LLM,1
+lugq1990/automl-engine,Training,1
+luisroque/robustness_hierarchical_time_series_forecasting_algorithms,Evaluation,1
+lukas-blecher/LaTeX-OCR,CV/NLP,2
+LukasHedegaard/ride,MLOps Platform,2
+lukeharwood11/pysimulate,Others,1
+lulivi/dgp-lib,Optimization,1
+luozhouyang/keras-crf,Others,1
+luozhouyang/transformers-keras,Model,1
+lvwerra/trl,Model,2
+lxuechen/ml-swissknife,Others,2
+M05-mini-project/swissroads,Data Processing,1
+m3dev/redshells,Data Processing,1
+m3-learning/DeepMatter,Materialogy,1
+m3-learning/m3_learning_old,Others,1
+ma2za/text-emotion,NLP,2
+MaartenGr/BERTopic,NLP,1
+MaartenGr/Concept,NLP,2
+MaartenGr/KeyBERT,Data Processing,1
+MacarielAerial/AM18_SPR20_LondonLAB,CV,1
+machine-learning-tools/keras-grid-search-cacheable,Training,1
+maclandrol/molfeat-hype,LLM,2
+magenta/ddsp,Audio,1
+magenta/magenta,Audio,1
+magenta/midi-ddsp,Audio,2
+MAIF/melusine,Data Processing,1
+maik97/wacky-rl,Training,1
+malariagen/anospp-analysis,Biology and Medicine,1
+MalteHB/stedsans,Geography and Meteorology,2
+ManchesterBioinference/BranchedGP,Model,1
+mangaki/zero,Recommender System,1
+manifest/flax-extra,Deployment and Configuration,1
+ManimCommunity/manim-voiceover,Audio,2
+MannLabs/alphapeptdeep,Biology and Medicine,2
+MannLabs/alphapeptstats,Biology and Medicine,2
+ManuelFay/ImageSearcher,IR,2
+manujosephv/pytorch_tabular,Training,2
+MarcEscandell/ALPypeRL,Deployment and Configuration,1
+marella/chatdocs,LLM,3
+markub3327/rl-toolkit,Deployment and Configuration,1
+marl/openl3,Audio/CV,1
+marrlab/DomainLab,Others,3
+marsggbo/hyperbox,MLOps Platform,3
+martiansideofthemoon/rankgen,NLP,2
+martin-eom/ssptools,Physics,3
+martinez-zacharya/TRILL,Biology and Medicine,2
+martinsbruveris/tensorflow-image-models,Model,1
+marvinquiet/Cellcano,Biology and Medicine,1
+massquantity/LibRecommender,Recommender System,1
+Materials-Consortia/optimade-python-tools,Physics/Materialogy,2
+materials-data-facility/battery-data-toolkit,Materialogy,4
+materials-data-facility/scythe,Materialogy,3
+Materials-Data-Science-and-Informatics/aiida-fenics,Physics/Materialogy,4
+materialsproject/api,Materialogy,3
+materialsproject/atomate2,Materialogy,3
+materialsproject/custodian,Others,3
+materialsproject/emmet,Materialogy,3
+materialsproject/MPContribs,Materialogy,3
+materialsproject/pymatgen,Materialogy,2
+materialsproject/pymatgen-analysis-defects,Physics,3
+materialsproject/pymatgen-db,Materialogy,3
+materialsproject/pyrho,Chemistry,3
+materialsproject/reaction-network,Chemistry,3
+materialsvirtuallab/m3gnet,Materialogy,1
+materialsvirtuallab/maml,Materialogy,1
+materialsvirtuallab/matgl,Materialogy,3
+materialsvirtuallab/megnet,Materialogy,1
+materialsvirtuallab/pymatgen-analysis-diffusion,Materialogy,3
+materialsvirtuallab/veidt,Materialogy,1
+Matgenix/turbomoleio,Chemistry,3
+MathPhysSim/PER-NAF,Model,1
+mauricekraus/torchchronos,Data Processing,2
+MauroLuzzatto/lyrics-translator,NLP,2
+maxent-ai/converse,NLP,2
+maxent-ai/ocrpy,CV/NLP,2
+maxmekiska/Imbrium,MLOps Platform,1
+maxpumperla/elephas,Training,1
+maxsch3/triplet-toolbox,Model,1
+mbkumar/pycdt,Physics/Materialogy,3
+mcgill-cpslab/spiral,Deployment and Configuration,1
+MedVisBonn/eyeseg,Biology and Medicine,1
+megagonlabs/bunkai,NLP,2
+megagonlabs/ginza-transformers,NLP,2
+meghdadFar/wordview,NLP,3
+megmogmog1965/debug_cmd,Others,3
+MentenAI/menten_gcn,Biology and Medicine,1
+merantix/picasso,Others,1
+Merck/deepbgc,Biology and Medicine,1
+mexca/mexca,Audio/CV/NLP,2
+michaelfeil/hf-hub-ctranslate2,NLP,2
+MicrobialDarkMatter/GraphMB,Biology and Medicine,1
+microsoft/BackwardCompatibilityML,Others,1
+microsoft/DeepSpeed,Optimization/Training,2
+microsoft/DeepSpeed-MII,Model/Optimization,2
+microsoft/dp-transformers,Security,2
+microsoft/fastseq,NLP,2
+microsoft/gpt-review,LLM,2
+microsoft/guidance,LLM,2
+microsoft/hi-ml,Biology and Medicine,2
+microsoft/Olive,Optimization/Training,1
+microsoft/presidio,Security,2
+microsoft/recommenders,Recommender System,1
+microsoft/responsible-ai-toolbox,Evaluation/Model,2
+microsoft/responsible-ai-toolbox-tracker,Evaluation/Monitoring and Interpreting,1
+microsoft/Semi-supervised-learning,MLOps Platform,2
+microsoft/tempeh,Evaluation,1
+microsoft/torchgeo,Others,2
+MIDASverse/MIDASpy,Data Processing,1
+mideind/GreynirSeq,NLP,2
+mikaelalafriz/lucid-sonic-dreams,Audio/CV,1
+mikahama/murre,NLP,1
+mikelkou/fava,Biology and Medicine,1
+MikulasZelinka/pyfiction,NLP,1
+mindee/doctr,CV/NLP,1
+mindsdb/lightwood,Training,2
+mindsdb/mindsdb,LLM,1
+MindSetLib/Insolver,Optimization,2
+minimaxir/aitextgen,NLP,2
+minimaxir/imgbeddings,CV,2
+minimaxir/textgenrnn,NLP,1
+miranov25/RootInteractive,Data Processing,1
+mithril-security/blindai,Security,2
+mit-ll-responsible-ai/equine,Optimization,3
+mit-ll-responsible-ai/responsible-ai-toolbox,Evaluation,3
+mjoppich/pIMZ,CV,3
+mkshing/svdiff-pytorch,Optimization/Training,2
+ml4astro/galaxy2galaxy,Astronomy,1
+MLBazaar/AutoBazaar,Training,1
+MLBazaar/mit-d3m,Data Processing,1
+MLBazaar/MLPrimitives,Training,1
+mle-infrastructure/mle-hyperopt,Optimization,2
+ml-evs/matador,Materialogy,3
+mlfoundations/open_clip,CV,2
+mlfpm/deepof,CV,1
+mljar/mljar-supervised,Optimization/Training,1
+MLSysOps/Active-Learning-as-a-Service,Training,2
+ml-toolkits/mlflavors,Deployment and Configuration,2
+m-lyon/dMRI-RCNN,CV,1
+m-lyon/face-comparison,CV,1
+MM-AI-team/mm-ai,Others,2
+ModelOriented/pyCeterisParibus,Monitoring and Interpreting,1
+modelscope/modelscope,MLOps Platform,2
+ModelZoo/ModelZoo,Training,1
+MokkeMeguru/meguru_tokenizer,NLP,1
+MolecularAI/aizynthfinder,IR,1
+momegas/megabots,LLM,3
+monarch-initiative/embiggen,Graph,1
+monarch-initiative/ontogpt,LLM,2
+Moraxno/thunder-ml,Training,2
+mortazavilab/swan_vis,Biology and Medicine,1
+mosaicml/composer,Training,2
+mosaicml/streaming,Training,2
+MPI-Dortmund/sphire_classes_autoselect,CV,1
+MPI-Dortmund/sphire-janni,CV,1
+mradaideh/neorl,Model,1
+mraveri/tensiometer,Evaluation,1
+mrphys/keras-declarative,Training,1
+mrphys/tensorflow-mri,CV,1
+msclock/transformersplus,NLP,2
+MTG/DCASE-models,Audio,1
+mturiansky/wavecar2unk,Physics,3
+MuMiN-dataset/mumin-build,Data Processing,2
+MusfiqDehan/data-preprocessors,Data Processing,3
+Music-and-Culture-Technology-Lab/omnizart,Audio,1
+musket-ml/segmentation_training_pipeline,CV,1
+mv1388/aitoolbox,Training,2
+mvinyard/lightning-tutorial,Others,3
+mvinyard/torch-adata,Biology and Medicine,3
+mwalmsley/zoobot,Astronomy,1
+MycroftAI/mycroft-precise,Audio,1
+N3PDF/evolutionary_keras,Optimization,1
+naivenlp/naivenlp-legacy,NLP,1
+naivenlp/rapidnlp-datasets,NLP,1
+namuan/dr-doc-search,LLM,2
+Nandhini25S/Vocably,NLP,2
+nanoporetech/medaka,Materialogy,1
+nanotech-empa/aiida-gaussian,Chemistry,3
+nanotech-empa/aiida-nanotech-empa,Physics/Materialogy,4
+napoler/BulidDataset,Data Processing,2
+napoler/tkit_transformer_xl,NLP,2
+napoler/tkit-re-transformers,Others,2
+napoler/tkit-seg,NLP,2
+napoler/tkit-tagger,NLP,2
+nateagr/mclip,Training,2
+nateraw/huggingpics,CV,2
+NateveLang/Eve,Others,2
+natix-io/vsdkx-core,CV,1
+natix-io/vsdkx-model-yolo-torch,CV,2
+NatLibFi/Annif,IR,1
+naver/disco,NLP,2
+nbroad1881/strideformer,NLP,2
+NCAR/echo-opt,Optimization,1
+ndoll1998/active-transformers,NLP,2
+nearai/program_synthesis,Model,1
+nedap/deidentify,NLP,3
+neelnanda-io/TransformerLens,Monitoring and Interpreting,2
+NEGU93/cvnn,Deployment and Configuration,1
+nekeal/platonic-io,NLP,1
+nelsonlove/gpt-utils,LLM,2
+nemo256/cbc,Biology and Medicine,1
+nengo/keras-spiking,Model,1
+neonbjb/ocotillo,Audio,2
+neptune-ai/neptune-client,MLOps Platform,1
+nerfstudio-project/nerfstudio,Training,2
+Nesac128/NNIR,Data Processing,1
+nestauk/ojd_daps_skills,NLP,2
+neulab/code-bert-score,Evaluation,2
+neumanh/K-anonymity-fot-texts,NLP,2
+neuml/codequestion,NLP,3
+neuml/paperai,Biology and Medicine,3
+neuml/tldrstory,NLP,2
+neuml/txtai,LLM,2
+neuml/txtchat,NLP,2
+neuml/txtinstruct,Data Processing,2
+neuralmagic/transformers,Model,1
+neurodata/ProgLearn,Others,1
+neuroevobench/neuroevobench,Evaluation,1
+NeuromorphicProcessorProject/snn_toolbox,Deployment and Configuration,1
+neu-vi/ezflow,Model,2
+nfflow/redditflow,Training,2
+ngoodger/nle-language-wrapper,NLP,2
+NHERI-SimCenter/BRAILS,CV,1
+nhsx/NHSSynth,Materialogy,3
+nik-dim/sequel,Deployment and Configuration,2
+niklases/PyPEF,Biology and Medicine,1
+ninpnin/probabilistic-word-embeddings,NLP,1
+NLP-Guild/text2music,NLP,3
+nmichlo/disent,CV,3
+NNPDF/nnusf,Physics,1
+NorwegianSeismicArray/nais,Others,1
+notAI-tech/Anuvaad,NLP,2
+notAI-tech/fastPunct,NLP,2
+NREL/sup3r,Physics,1
+NSLS-II/xmidas,Physics,4
+NTMC-Community/MatchZoo,Model,1
+NTT123/opax,Optimization,2
+NTT123/pax,Training,1
+NVIDIA/NeMo,Training,2
+NVIDIA/NeMo-Guardrails,LLM,3
+NVIDIA/NeMo-text-processing,Data Processing,2
+NVIDIA/NVFlare,Security,2
+NVIDIA-Merlin/dataloader,Training,1
+NVIDIA-Merlin/models,Training,1
+NVIDIA-Merlin/NVTabular,Training,2
+NVIDIA-Merlin/systems,Recommender System,1
+NVIDIA-Merlin/Transformers4Rec,Recommender System,1
+NVlabs/trajdata,Data Processing,1
+nyanp/chat2plot,LLM,3
+nyanp/nyaggle,Others,2
+nyu-mll/jiant,NLP,2
+oaqa/FlexNeuART,IR,2
+OATML/oatomobile,RL,1
+oballinger/face-network,CV/Graph,1
+obss/trapper,NLP,2
+Occlusion-Solutions/llm_explorer,LLM,2
+OCR-D/ocrd_anybaseocr,Monitoring and Interpreting,1
+OCR-D/ocrd_keraslm,CV/NLP,1
+okitouni/MoDe,Optimization,1
+okunator/cellseg_models.pytorch,Biology and Medicine,3
+OnlyBelter/DeSide,Biology and Medicine,1
+onnx/onnx-tensorflow,Model,1
+openai/whisper,Audio,2
+OpenBB-finance/OpenBBTerminal,Economics,2
+OpenBMB/ModelCenter,Training,2
+openclimatefix/PVNet,Physics,2
+openclimatefix/satflow,CV,2
+opendataval/opendataval,Evaluation,2
+openeventdata/mordecai,NLP,1
+openfoodfacts/robotoff,Others,2
+opengeos/geospatial-ml,Deployment and Configuration,1
+open-mmlab/mmagic,CV,2
+open-mmlab/mmpretrain,Model,2
+OpenNMT/OpenNMT-tf,Data Processing,1
+OpenNyAI/Opennyai,NLP,2
+opentensor/bittensor,Others,2
+opentensor/validators,Others,2
+openvax/mhcflurry,Biology and Medicine,1
+openvinotoolkit/anomalib,CV,2
+openvinotoolkit/datumaro,CV,1
+openvinotoolkit/geti-sdk,CV,2
+openvinotoolkit/nncf,Training,1
+openvinotoolkit/openvino,Monitoring and Interpreting/Optimization,1
+openvinotoolkit/openvino_contrib,Others,2
+openvinotoolkit/training_extensions,Training,2
+OpenVoiceOS/ovos-audio2ipa-plugin-wav2vec2espeak,Audio,2
+OpenVoiceOS/ovos-audio2ipa-plugin-wav2vec2gruut,Audio,2
+OpenVoiceOS/ovos-solver-plugin-dialogpt,Model,2
+operand/agency,Others,2
+optuna/optuna-integration,Optimization,1
+Orest02/colornet,Deployment and Configuration,1
+ornlpmcp/ASCENDS,Data Processing/Training,1
+osainz59/Ask2Transformers,NLP,2
+Oslandia/deeposlandia,Geography and Meteorology,1
+osmarbraz/texto-transformer,NLP,2
+ossamaAhmed/blackbox_mpc,Deployment and Configuration,1
+OStatsAA/ostatslib,Data Processing,1
+ourownstory/neural_prophet,Training,2
+ovbystrova/InstructionNER,NLP,2
+OverLordGoldDragon/deeptrain,Monitoring and Interpreting,1
+PaddlePaddle/PaddleNLP,Training,2
+PaddlePaddle/PaddleTS,MLOps Platform,2
+Palashio/libra,Physics,1
+pankajr141/gimmick,CV,1
+Pan-ML/panml,Training,2
+PanQiWei/AutoGPTQ,NLP,2
+PanyiDong/InsurAutoML,Training,2
+paperswithcode/galai,NLP,2
+ParikhKadam/bidaf-keras,Model,1
+pasqualedem/EzDL,Others,2
+PathmindAI/pathmind-api,Deployment and Configuration,1
+PathwayCommons/pathway-abstract-classifier,Data Processing,1
+pattilab/DecoID,Biology and Medicine,1
+pattilab/HRMS_2_QQQ,Biology and Medicine,2
+pattilab/PeakDetective,Biology and Medicine,1
+PayamDiba/CoNSEPT,Others,1
+pdrm83/sent2vec,NLP,2
+pdxgx/neoepiscope,Biology and Medicine,2
+peach-db/peachdb,LLM,3
+pedrolarben/ADLStream,Others,1
+pensieves/sonorus,Audio,2
+PeteHeine/torchbricks,Training,3
+pgagarinov/pytorch-hyperlight,Optimization,2
+PGM-Lab/InferPy,Training,1
+pharmapsychotic/clip-interrogator,CV,2
+PhasesResearchLab/PyQAlloy,Materialogy,3
+PhasesResearchLab/pySIPFENN,Others,3
+phborba/segmentation_models_trainer,NLP,1
+philipperemy/keras-attention,NLP,1
+philipperemy/keras-tcn,NLP,1
+phillip1029/forecasttime,Model,1
+pinecone-io/pinecone-text,NLP,2
+pinellolab/pyrovelocity,Biology and Medicine,3
+pkmital/pycadl,Others,1
+Planet-AI-GmbH/tfaip,MLOps Platform,1
+polak0v/ReSuber,Audio/NLP,1
+PolarBean/DeepSlice,Biology and Medicine,1
+policratus/pupyl,CV,1
+pollen-robotics/rosa,Others,1
+postgresml/postgresml,LLM,2
+potsawee/selfcheckgpt,LLM,2
+pouyaardehkhani/ActTensor,Training,1
+ppdebreuck/modnet,Materialogy,1
+pratikdk/transformers_keras_dataloader,NLP,1
+PrefectHQ/langchain-prefect,Monitoring and Interpreting,3
+PrefectHQ/marvin,Monitoring and Interpreting,3
+previsionio/prevision-quantum,Physics,1
+primeqa/primeqa,NLP,2
+princeton-nlp/SimCSE,NLP,2
+prob-ml/bliss,Physics,3
+professai/strategais,Deployment and Configuration,2
+Professor-G/pyBIA,Physics,1
+ProjectCity-Group/gan-cities,CV,1
+Project-MONAI/MONAI,Biology and Medicine,2
+pronobis/libspn-keras,Model,1
+psorus/grapa,Data Processing,1
+pswapnesh/misic,Biology and Medicine,1
+pszemraj/vid2cleantxt,Audio/NLP,2
+pudu-py/pudu,Monitoring and Interpreting,1
+py4dstem/py4DSTEM,CV,1
+pyannote/pyannote-audio,Audio,2
+pycaret/pycaret,Training,2
+pyGSTio/pyGSTi,Physics,2
+pyiron/pyiron_atomistics,Materialogy,3
+pyiron/pyiron_contrib,Others,4
+PyThaiNLP/padthai,Data Processing,2
+PyThaiNLP/pythaiasr,NLP,2
+PyThaiNLP/pythainlp,Data Processing,1
+PyThaiNLP/PyThaiTTS,NLP,2
+PyThaiNLP/spaCy-PyThaiNLP,Data Processing,2
+PyThaiNLP/spelling-check,NLP,2
+PyThaiNLP/thaibraille,NLP,2
+PyThaiNLP/Thai-Data-Privacy,Security,2
+PyThaiNLP/thaixtransformers,Data Processing,2
+PythonForChange/eggdriver,Physics,1
+pytorch/opacus,Security,2
+pytorch/torchrec,Recommender System,3
+pytorch/torchx,MLOps Platform,3
+QData/TextAttack,NLP,1
+qdrant/qdrant-txtai,IR,3
+qdrant/quaterion,Training,3
+qiboteam/qibo,Physics,1
+qiboteam/qibocal,Physics,1
+qiboteam/qibojit,Training,2
+qiboteam/qibolab,Physics,2
+qiboteam/qibotf,Training,1
+q-optimize/c3,Physics,1
+quimpm/youtube_discussion_tree,NLP,2
+QuKunLab/MiScan,Biology and Medicine,1
+qurator-spk/eynollah,CV,1
+qurator-spk/sbb_binarization,CV,1
+qzhu2017/PyXtal,Physics/Materialogy,3
+R1j1t/contextualSpellCheck,NLP,2
+r2d4/parserllm,LLM,2
+r2d4/rellm,LLM,2
+r3v1/tf-SmeLU,Recommender System,1
+racai-ai/pyeurovoc,NLP,2
+radi-cho/datasetGPT,LLM,3
+rafiqhasan/auto-tensorflow,Training,1
+RafMuz/Social_Media_Sentiment_Analysis,Data Processing,3
+rafsunsheikh/ptmodels,Evaluation,1
+rajcscw/nlp-gym,Training,1
+RapidAI/RapidOCR,Model,2
+Rappsilber-Laboratory/xiRT,Biology and Medicine,1
+rasa-codeless/rasac,Audio,1
+RasaHQ/rasa,NLP,1
+RasaHQ/rasa_core,NLP,1
+rbturnbull/hespi,Biology and Medicine,2
+rdnfn/autoplotlib,LLM,3
+recap-utr/nlp-service,NLP,1
+recski/tuw-nlp,NLP,3
+Reichenbachian/adlframework,Data Processing,1
+reluce/szurubooru-toolkit,Others,1
+Renumics/sliceguard,IR,2
+repp/big-phoney,NLP,1
+retarfi/jptranstokenizer,NLP,2
+Revca-ANAI/ANAI,Training,2
+Riccorl/transformers-embedder,NLP,2
+Riccorl/transformer-srl,NLP,3
+riffusion/riffusion,Audio,2
+rigetti/quantumflow,Physics,1
+riiid/question-score,Evaluation,2
+rikab/GaussianAnsatz,Model,1
+rikab/SHAPER,Physics,1
+Rishit-dagli/Fast-Transformer,NLP,1
+Rishit-dagli/Gradient-Centralization-TensorFlow,Training,1
+RitaOlenchuk/deepNeuroSeg,Biology and Medicine,1
+Ritvik19/pyradox,Model,1
+riversun/ChatStream,LLM,2
+rizki4106/netrade,Economics,3
+rkcosmos/deepcut,NLP,1
+rlworkgroup/akro,RL,1
+rlworkgroup/garage,MLOps Platform,1
+rmrschub/pyDAC,Others,1
+robertatakenaka/tcc_rs,Recommender System,3
+robocomp/LearnBlock,Others,1
+rodrigo-arenas/Graph-Embeddings,Graph,2
+rodrigo-arenas/Sklearn-genetic-opt,Optimization/Training,1
+rodrigobaron/quick-deploy,Monitoring and Interpreting,1
+rom1504/clip-retrieval,IR,3
+roma-glushko/morty,Others,1
+rosefun/WeaklySupervisedLearning,Model,1
+rosegit-lab/kis2,CV,1
+rossumai/docile,CV/NLP,2
+Rostlab/VESPA,Biology and Medicine,2
+royerlab/cytoself,Biology and Medicine,1
+rsanchezgarc/deepEMhancer,CV,1
+r-three/git-theta,Others,1
+RUCAIBox/CRSLab,Recommender System,2
+RUCAIBox/TextBox,NLP,2
+rungalileo/dataquality,CV/NLP,1
+ryanccn/osmosis,CV,2
+RyanWangZf/PromptEHR,Biology and Medicine,2
+RyanWangZf/PyTrial,NLP,2
+RyanWangZf/transtab,Data Processing,2
+RyanWangZf/Trial2Vec,IR,2
+RyanZurrin/CS410-GP2,Optimization,1
+rystrauss/bax,Others,1
+Saadmairaj/boolean-question,NLP,2
+saattrupdan/ScandEval,Evaluation,1
+safakkbilici/x-tagger,NLP,2
+saforem2/l2hmc-qcd,Materialogy,1
+sagorbrur/bnaug,NLP,2
+sagorbrur/bntransformer,NLP,2
+sahahn/BPt,Data Processing,2
+sai-prasanna/lmproof,NLP,2
+salesforce/CodeTF,LLM,2
+salesforce/LAVIS,CV/NLP,2
+salesforce/logai,Others,2
+salute-developers/smart_app_framework,Training,1
+samedii/perceptor,Data Processing,2
+samedii/pytorch-zero-lit,Others,2
+samsledje/ConPLex,Biology and Medicine,3
+Samsomyajit/s-atmech,NLP,1
+sanderslab/magellanmapper,Data Processing,1
+sandialabs/pvOps,Physics,1
+sanghuynh1501/mlcollect,Data Processing,1
+Sanster/lama-cleaner,Data Processing,2
+SAP/credential-digger,Data Processing,1
+SAP/ml-model-watermarking,Security,2
+SaptakBhoumik/easySpeech,Audio,2
+Sara-Iftikhar/AutoTab,Optimization,1
+sarusso/Timeseria,Data Processing,1
+sattyamjjain/pyAGI,LLM,2
+satzbeleg/keras-quadopt,Optimization,1
+sayef/fsner,Training,2
+sbanik2/CASTING,IR,3
+scalarstop/scalarstop,MLOps Platform,1
+scart97/thunder-speech,Audio,2
+schlafly/crowdsource,Astronomy,1
+schreiber-lab/mlreflect,Physics,1
+SchriderLab/Timesweeper,Biology and Medicine,1
+ScottfreeLLC/AlphaPy,Training,1
+scribe-org/Scribe-Data,Data Processing,1
+scverse/scvi-tools,Biology and Medicine,2
+sdpkjc/abcdrl,Model,1
+sebischair/Lbl2Vec,IR,2
+SecHack365-Fans/prompt2slip,NLP,2
+secondmind-labs/GPflux,Model,1
+secondmind-labs/markovflow,Model,1
+secondmind-labs/trieste,Optimization,1
+secretflow/secretflow,Security,1
+SeldonIO/alibi,Monitoring and Interpreting,1
+SeldonIO/alibi-detect,Monitoring and Interpreting,1
+SeldonIO/MLServer,Model,1
+selimfirat/pysad,Time Series,2
+sequential-parameter-optimization/spotPython,Optimization,2
+serafima-ai/BenchFormer,NLP,2
+severinsimmler/figur,NLP,3
+SforAiDl/KD_Lib,Data Processing,2
+shahules786/Twitter-Sentiment,NLP,1
+shareableai/corvus,IR,2
+shareableai/jackdaw,Deployment and Configuration,1
+Shawn-Shan/fawkes,Security,1
+shenwanxiang/bidd-molmap,Physics,1
+shenweichen/DeepCTR-Torch,Training,1
+shenweichen/DeepMatch,Model,1
+shibing624/CodeAssist,NLP,2
+shibing624/dialogbot,NLP,2
+shibing624/nerpy,Model,2
+shibing624/pke_zh,NLP,2
+shibing624/pytextclassifier,Model,1
+shibing624/text2vec,Model,1
+shibing624/textgen,Model,2
+Shivanandroy/KeyPhraseTransformer,IR,2
+Shivanandroy/simpleT5,Training,2
+shkarupa-alex/tfgcvit,CV,1
+shkarupa-alex/tfreplknet,CV,1
+shkarupa-alex/tfswin,Model,1
+shkarupa-alex/tfvan,CV,1
+shmsw25/FActScore,Evaluation,2
+shon-otmazgin/fastcoref,Training,2
+shubhamjha97/rlkit,Training,1
+shunk031/allennlp-dataframe-mapper,NLP,3
+shunk031/allennlp-shiba-model,NLP,3
+shyamsn97/jax-nca,Biology and Medicine,1
+shyamsn97/mario-gpt,LLM,2
+shyamsn97/stable-diffusion-server,Deployment and Configuration,2
+SIAnalytics/siatune,Optimization,2
+sibyl-dev/pyreal,Monitoring and Interpreting,1
+siddk/voltron-robotics,NLP,2
+sidhomj/DeepTCR,Data Processing,1
+sidphbot/Auto-Research,NLP,2
+siesta-project/aiida_siesta_plugin,Physics,4
+simonepri/lm-scorer,Evaluation,2
+simonmnash/transformstorm,NLP,2
+simonreise/remote-sensing-processor,Data Processing,1
+sims-lab/CapCruncher,Data Processing,3
+sintel-dev/Draco,MLOps Platform,1
+sintel-dev/ml-stars,Data Processing,1
+sintel-dev/Orion,Time Series,1
+SirBubbls/condense,Training,1
+sjeknic/CellTK,Data Processing,1
+Skylark0924/Rofunc,MLOps Platform,1
+S-Lab-System-Group/Hydro,Optimization,2
+smoke-trees/forest-utils,Model,1
+SMTG-UCL/ShakeNBreak,IR,3
+SMTG-UCL/sumo,Data Processing,3
+snuailab/waffle_hub,Evaluation,2
+SOCIALSCIENCEai/coNLP,NLP,2
+softmatterlab/DeepTrack2,Physics,1
+soldni/pyterrier_sentence_transformers,IR,2
+sony/nnabla,Deployment and Configuration,1
+SOTAI-Labs/sotai,Monitoring and Interpreting,3
+SOUHARDYAADHIKARY1999/Face_rec_pip,CV,1
+spacetelescope/spacekit,Astronomy,1
+Sparkier/luna,Monitoring and Interpreting,1
+sparks-baird/mat_discover,Chemistry,2
+SpArX-Group-10/SpArX,Monitoring and Interpreting,1
+speediedan/finetuning-scheduler,Training,2
+Spico197/REx,Data Processing,2
+SpirinEgor/commode-utils,Others,3
+spktrm/meloetta,RL,2
+splicemachine/pysplice,MLOps Platform,1
+sql-machine-learning/elasticdl,Deployment and Configuration,1
+src-d/ml,Deployment and Configuration,1
+ssbuild/deep_training,Training,2
+ssc-ai/satsim,Physics,1
+stanford-crfm/helm,Monitoring and Interpreting,2
+stanfordnlp/string2string,NLP,2
+stardist/stardist-napari,CV,1
+StatBiomed/UniTVelo,Biology and Medicine,1
+statmlben/dnn-inference,Evaluation,1
+stdogpkg/cukuramoto,Data Processing,1
+stdogpkg/stdog,Graph,1
+steamship-core/steamship-langchain,LLM,2
+StefanHeng/stef-util,Monitoring and Interpreting,2
+stellargraph/stellargraph,Graph,1
+stephenhky/PyShortTextCategorization,NLP,1
+stochasticai/xTuring,LLM,2
+STOmics/Stereopy,Data Processing,1
+Strong-AI-Lab/emotion,Data Processing,1
+SuffolkLITLab/FormFyxer,Data Processing,2
+sunglasses-ai/classy,NLP,2
+sunkusun9/DeepPosTagger,NLP,1
+Supermaxman/pytorch-gleam,NLP,2
+surajiyer/spacybert,NLP,2
+surajiyer/spacycaKE,NLP,3
+sustainable-processes/summit,Chemistry,1
+Svdvoort/prognosais,Biology and Medicine,1
+swapUniba/ClayRS,Evaluation,2
+T0nyX1ang/WHU-ScoreChecker,Evaluation,1
+Talendar/nevopy,Model,1
+Talendar/qdeep,Model,1
+talmolab/sleap,CV,1
+tam2511/EasyPL,Deployment and Configuration,3
+tatiana-iazykova/bert-for-sequence-classification,NLP,2
+tcapelle/cloud_diffusion,Physics,3
+tcapelle/gpt_translate,NLP,3
+TDHM/Subtitles-Translator,NLP,2
+tdspora/syngen,Data Processing,1
+TeamHeka/medkit,NLP,2
+TechForGoodInc/tabular-automl,Training,3
+tech-sketch/SeqAL,Others,3
+TechyNilesh/SSEM,NLP,2
+telekom/HPOflow,Monitoring and Interpreting/Optimization,2
+telekom/transformer-tools,NLP,2
+Temigo/faster-particles,Physics,1
+tencent-quantum-lab/TenCirChem,Physics,2
+tencent-quantum-lab/tensorcircuit,Chemistry,1
+TensorAeroSpace/TensorAeroSpace,RL,1
+tensorchord/modelz-llm,LLM,2
+tensorflow/cloud,Training,1
+tensorflow/datasets,Others,1
+tensorflow/data-validation,Evaluation,1
+tensorflow/examples,Others,1
+tensorflow/fairness-indicators,Evaluation,1
+tensorflow/federated,Model,1
+tensorflow/gnn,Model,1
+tensorflow/lattice,Others,1
+tensorflow/lucid,Monitoring and Interpreting,1
+tensorflow/mesh,Training,1
+tensorflow/models,Model,1
+tensorflow/quantum,Chemistry,1
+tensorflow/ranking,IR,1
+tensorflow/similarity,Training,1
+tensorflow/tfx-addons,Others,1
+tensorforce/tensorforce,MLOps Platform,1
+tensorlayer/RLzoo,MLOps Platform,1
+tensorlayer/TensorLayer,MLOps Platform,1
+tensorlayer/TensorLayerX,Monitoring and Interpreting,1
+tensorops/TransformerX,NLP,1
+TensorSpeech/TensorFlowASR,Audio,1
+tensortrade-org/tensortrade,RL,1
+textcortex/icortex,LLM,2
+textflint/textflint,NLP,2
+TharinduDR/DeepOffense,Audio,2
+TharinduDR/MUDES,NLP,2
+TharinduDR/Simple-Sentence-Similarity,NLP,2
+TharinduDR/STS-Transformers,NLP,2
+TharinduDR/TransQuest,Monitoring and Interpreting,2
+that-recsys-lab/librec-auto,Recommender System,1
+theadamsabra/ViT4ELM,CV,2
+TheBridgeMachineLearningPythonLibrary/MachineLearningToolKit,MLOps Platform,1
+thecodacus/lazy-dev,LLM,3
+thedpws/pitcher,Audio,1
+TheDrHax/Twitch-Utils,Audio,1
+thegraphnetwork/epigraphhub_py,MLOps Platform,1
+theislab/batchglm,Data Processing,1
+theislab/campa,Data Processing,1
+theislab/cpa,Biology and Medicine,3
+theislab/dca,Data Processing,1
+theislab/diffxpy,Biology and Medicine,2
+theislab/ncem,Data Processing,1
+theislab/pertpy,Data Processing,3
+theislab/scarches,Biology and Medicine,1
+theislab/scCODA,Biology and Medicine,1
+theislab/scgen,Biology and Medicine,1
+theislab/sfaira,Model,1
+theislab/trVAE,Biology and Medicine,1
+TheoCoombes/ClipCap,NLP,2
+thepushkarp/nalcos,NLP,2
+theRay07/Translation-Quality-Estimator,Evaluation,3
+theroggy/cropclassification,Data Processing,1
+ThilinaRajapakse/simpletransformers,Training,2
+thisguymartin/SearchHoundAI,LLM,3
+ThomasScialom/QuestEval,Evaluation,2
+thompson0012/PyEmits,Data Processing,1
+thoughtworksarts/EmoPy,CV,1
+THUDM/CogDL,Training,2
+thunlp/oknlp,NLP,2
+thunlp/OpenAttack,NLP,2
+thunlp/OpenDelta,NLP,2
+thunlp/OpenPrompt,NLP,2
+TidalPaladin/combustion,Others,3
+Tiiiger/bert_score,NLP,2
+tilde-lab/aiida-crystal-dft,Chemistry,4
+timofurrer/embedeval,NLP,1
+tk2lab/HOTARU,Data Processing,1
+tk2lab/vbnigmm,Model,1
+TL-System/plato,Training,1
+tokusumi/keras-flops,Evaluation,1
+tomcharnock/IMNN,Data Processing,1
+TomFrederik/unseal,Others,2
+tomusher/wagtail-ai,LLM,3
+torcheeg/torcheeg,Data Processing,3
+TorchSpatiotemporal/tsl,Data Processing,3
+TradeMaster-NTU/TradeMaster,MLOps Platform,1
+transferwise/neural-lifetimes,Data Processing,3
+triagemd/keras-eval,Evaluation,1
+triagemd/keras-model-specs,Data Processing,1
+TRI-AMDD/CAMD,Materialogy,2
+TRI-AMDD/piro,Chemistry,2
+Trusted-AI/adversarial-robustness-toolbox,Security,1
+Trusted-AI/AIF360,Training,1
+Trusted-AI/AIX360,Monitoring and Interpreting,1
+tryolabs/luminoth,CV,1
+ttportela/automatise,Others,1
+tunib-ai/oslo,Optimization,2
+tunib-ai/parallelformers,Deployment and Configuration,2
+Tushar-ml/DarkNeuron,Training,1
+tvdboom/ATOM,Optimization,1
+tw70455/RodentMRISkullStripping3D,CV,1
+tymor22/tm-vec,Others,2
+tzamalisp/crossai-lib,MLOps Platform,1
+UBC-NLP/turjuman,NLP,2
+udaylunawat/Whats-this-rock,Data Processing,1
+UKPLab/EasyNMT,NLP,2
+UKPLab/gpl,NLP,2
+UKPLab/MMT-Retrieval,IR,2
+UKPLab/sentence-transformers,NLP,2
+UM2ii/MedSimilarity,Biology and Medicine,2
+umcu/clinlp,NLP,2
+Unbabel/COMET,NLP,2
+Unbabel/OpenKiwi,Evaluation,2
+Unbabel/smaug,NLP,2
+undertheseanlp/underthesea,NLP,2
+UNDP-Data/geo-gim-model,CV,1
+Unipisa/diaparser,NLP,2
+unit8co/darts,Time Series,2
+unitaryai/detoxify,NLP,2
+Unity-Technologies/datasetinsights,CV,1
+Unity-Technologies/ml-agents,RL,1
+Unstructured-IO/unstructured,Data Processing,2
+Unstructured-IO/unstructured-inference,Model,2
+unum-cloud/uform,IR,2
+UPGON/cenfind,Biology and Medicine,1
+urw7rs/diffusion-models-made-easy,Model,3
+ur-whitelab/BO-LIFT,LLM,3
+ur-whitelab/chemcrow-public,Chemistry,3
+ur-whitelab/exmol,Physics,3
+ur-whitelab/nmrgnn,Biology and Medicine,1
+usnistgov/alignn,Model,2
+usnistgov/atomvision,Data Processing,2
+usnistgov/chemnlp,LLM,2
+usnistgov/cv-py,Biology and Medicine,3
+usnistgov/jarvis,Materialogy,1
+ustcml/mini-lightning,Training,2
+utterworks/fast-bert,NLP,2
+uw-cmg/MAST,Materialogy,3
+uw-cmg/MAST-ML,Materialogy,1
+v0idzdev/mbti,NLP,1
+v7labs/benchllm,LLM,3
+vanvalenlab/deepcell-retinamask,Monitoring and Interpreting,1
+vanvalenlab/deepcell-tf,Biology and Medicine,1
+vaticle/typedb-ml,Model,1
+vcon-dev/vcon,Data Processing,2
+VDuchauffour/transformers-visualizer,NLP,2
+VectorInstitute/cyclops,Biology and Medicine,2
+Vennify-Inc/chatting-transformer,NLP,2
+ViCCo-Group/thingsvision,CV,1
+VietHoang1512/KPA,NLP,2
+Vishnunkumar/clipcrop,CV,2
+Vishnunkumar/doc_transformers,NLP,2
+Vishnunkumar/huggingfaceinference,Model/Training,2
+Vishnunkumar/pipelineagents,Deployment and Configuration,2
+vistec-AI/thai2transformers,NLP,2
+ViswanathBalusu/Agrothon,Others,1
+viveklalex/insightsearch,NLP,2
+Vivswan/AnalogVNN,Deployment and Configuration,1
+Vizgen/vizgen-postprocessing,Biology and Medicine,1
+vllm-project/vllm,LLM,2
+vngrs-ai/vnlp,NLP,1
+vocalpy/hybrid-vocal-classifier,Audio,1
+vocodedev/vocode-python,LLM,2
+voicepaw/so-vits-svc-fork,Audio,2
+voidful/NLPrep,NLP,2
+voidful/TFkit,NLP,2
+vtuber-plan/langport,LLM,2
+vturrisi/solo-learn,MLOps Platform,2
+wangcongcong123/ttt,NLP,1
+wangshenguiuc/OnClass,Biology and Medicine,2
+wangyuxinwhy/uniem,NLP,2
+wannaphong/IsanNLP,NLP,2
+wannaphong/KhamYo,NLP,2
+wannaphong/LaoNLP,NLP,2
+wannaphong/MultiEL,NLP,2
+wannaphong/pythaiair,Others,2
+wannaphong/thaitextaug,NLP,2
+wasertech/Translator,NLP,2
+Watchfulio/watchful-py,Others,3
+waymo-research/waymo-open-dataset,Others,1
+wdika/mridc,Biology and Medicine,3
+wearepal/EthicML,Evaluation,2
+Westlake-AI/OpenBioSeq,Biology and Medicine,2
+wgryc/phasellm,LLM,2
+whiskyboy/cogsgpt,LLM,3
+whitead/paper-qa,NLP,3
+whitead/robust-mrkl,LLM,3
+whylabs/langkit,NLP,2
+wizmal/batukh,NLP,1
+WMD-group/ElementEmbeddings,Data Processing,2
+WMD-group/PyTASER,Physics,3
+WMD-group/SMACT,Materialogy,3
+wmkouw/libTLDA,Model,1
+wmkouw/mrai-net,Biology and Medicine,1
+WorksApplications/SudachiTra,NLP,1
+worldbank/iQual,NLP,2
+worldbank/llm4data,LLM,3
+worldbank/REaLTabFormer,LLM,2
+wuhanstudio/DeepAPI,Security,1
+wuhanstudio/whitebox-adversarial-toolbox,Security,1
+wwu-mmll/photonai_graph,Training,1
+Wytamma/write-the,NLP,3
+xaynetwork/xaynet,Training,1
+XENONnT/ax_env,Others,1
+XENONnT/straxen,Data Processing,1
+xhluca/dl-translate,NLP,2
+xhluca/keras-toolkit,Training,1
+xiangking/ark-nlp,NLP,2
+xifle/noisytest,Evaluation,1
+xiongfengNJ/DSM-tools,Biology and Medicine,1
+Xpitfire/symbolicai,LLM,2
+X-ray-Dawgz/XRayDawgz,Materialogy,1
+xraypy/xraylarch,Data Processing,3
+xrsrke/instructGOOSE,RL,2
+xSAVIKx/ru-proverbs,NLP,1
+xserban/dnnmodels,Model,1
+xsfa/pointstorm,LLM,2
+XSLiuLab/Seq2Neo,Biology and Medicine,1
+xusenlinzy/lightningblocks,NLP,2
+Xylambda/torchfitter,Training,2
+YaleDHLab/pix-plot,CV,1
+Yale-LILY/SummerTime,NLP,2
+yambo-code/aiida-yambo,Physics,4
+yangheng95/PyABSA,NLP,1
+yang-zhang/product_category,Others,2
+yanyongyu/AF-Adapter,Training,2
+yanyongyu/nlppets,NLP,2
+yanyongyu/regex-llm,NLP,2
+Yao-Dou/LENS,Evaluation,2
+yasufumy/pytorch-partial-tagger,NLP,2
+yasyf/compress-gpt,LLM,3
+ydataai/ydata-synthetic,Time Series/Tabular Data,1
+yifding/hetseq,Training,2
+Yinghao-Li/seqlbtoolkit,Training,2
+yinochaos/datasets,Data Processing,1
+YJiangcm/PromCSE,NLP,2
+ylaxor/relex,NLP,3
+Yoctol/seq2vec,NLP,1
+yongzhuo/Pytorch-NLU,NLP,2
+YosefLab/mrvi,Biology and Medicine,3
+YosefLab/PopV,Biology and Medicine,1
+YosefLab/scib-metrics,Evaluation,3
+YosefLab/velovi,Biology and Medicine,3
+yoshida-lab/XenonPy,Materialogy,3
+Young-won/deepbiome,Biology and Medicine,1
+yrahul3910/raise,MLOps Platform,1
+yu9824/yikit,Others,1
+YunjaeChoi/rlagent,Training,1
+yuval6957/semantic-cleaning,NLP,2
+yzhangcs/parser,NLP,2
+yzhao062/combo,Evaluation,2
+yzhao062/pyod,Security,1
+yzhao062/pytod,Security,2
+zaccharieramzi/tf-fastmri-data,Data Processing,1
+zcqwh/napari-aideveloper,Evaluation/Training,1
+Zehui127/hybrid-graph-benchmark,Evaluation,3
+zenml-io/zenml,Training,1
+zeno-ml/zeno,Evaluation,1
+zeno-ml/zeno-evals,Evaluation,2
+zfit/zfit,Optimization,1
+ZimmermanGroup/conformer-rl,Chemistry,1
+zincware/IPSuite,Physics,1
+zincware/MDSuite,Physics,1
+ZiyiXia/CryptoRL,RL,1
+zjunlp/DeepKE,NLP,2
+ZurichNLP/nmtscore,NLP,2
